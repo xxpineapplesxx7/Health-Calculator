@@ -1,11 +1,38 @@
-body { background-color:lightskyblue; text-align: center;}
+body { 
+    background-color:lightskyblue;
+    text-align: center;
+    font-family: fantasy;
+}
 
-h1 {text-align: center; color:blueviolet;}
+h1 {
+    text-align: center;
+    color:blueviolet;
+    background-color: white;
+}
 
-h2 {text-align: center; color:blueviolet;}
+h2 {
+    text-align: center; 
+    color:blueviolet;
+}
 
-h3 {text-align: center; color: blueviolet;}
+h3 {
+    text-align: center; 
+    color: blueviolet;
+}
 
-p {text-align: center; font-size: 20px;color: darkblue; font-weight: 700;}
+p {
+    text-align: center; 
+    font-size: 20px;
+    color: darkblue;
+     font-weight: 800;
+     margin: 0 auto;
+     max-width: 870px;
+     border: solid 2px blueviolet;
+     padding: 12px;
+   }
+   
 
-label {font-weight:800; font-size: 20px;}
+label {
+    font-weight:800; 
+    font-size: 20px;
+}
